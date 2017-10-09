@@ -3,44 +3,44 @@ baseurl:
 
 # Site settings
 title: Beans Studio
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: 
+description: "Leading mobile application development companies"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Hong Dam
   pic: 1
   position: Lead Designer
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: behance-square
+      url: https://www.behance.net/hongdt212
+    - title: linkedin
+      url: https://www.linkedin.com/in/dam-hong-622a48110
 
-- name: Larry Parker
+- name: Tao Pham
   pic: 2
-  position: Lead Marketer
+  position: Lead Android
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/tao-pham-duy-560363a0/
+    - title: github
+      url: https://github.com/Taopd
 
-- name: Diana Petersen
+- name: Trung Nguyen
   pic: 3
-  position: Lead Developer
+  position: Lead iOS
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/geek1706
+    - title: stack-overflow
+      url: https://stackoverflow.com/cv/geek1706
+    - title: github
+      url: https://twitter.com/geek1706
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
